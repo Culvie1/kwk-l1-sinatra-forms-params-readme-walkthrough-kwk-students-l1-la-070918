@@ -11,6 +11,8 @@ def get_animal(animal,hat)
     if hat == "party hat"
       animal_img = "https://i.pinimg.com/736x/1a/a7/85/1aa785a2fe8cc05eea4d128f3d630c0d--party-time-party-animals.jpg"
     elsif hat == "top hat"
+      animal_img = "https://i.pinimg.com/originals/d6/07/4e/d6074e5874e5372651ae7fc7598e106b.jpg"
+    if hat == "bucket hat"
       animal_img = ""
     
   
