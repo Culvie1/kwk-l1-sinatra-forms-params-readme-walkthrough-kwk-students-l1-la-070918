@@ -13,6 +13,13 @@ def get_animal(animal,hat)
     elsif hat == "top hat"
       animal_img = "https://i.pinimg.com/originals/d6/07/4e/d6074e5874e5372651ae7fc7598e106b.jpg"
     if hat == "bucket hat"
-      animal_img = ""
+      animal_img = "https://www.warrenphotographic.co.uk/photography/bigs/18252-Persian-cat-wearing-a-bush-hat-white-background.jpg"
+    end
+  end 
+  
+  return animal_img
+end 
+
+puts get_animal("dog","party hat")
     
   
