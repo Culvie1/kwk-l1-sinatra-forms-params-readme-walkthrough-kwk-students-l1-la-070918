@@ -20,4 +20,4 @@ def get_animal(animal,hat)
   return animal_img
 end 
 
-puts get_animal("dog","party hat")
+puts get_animal("dog","party-hat")
