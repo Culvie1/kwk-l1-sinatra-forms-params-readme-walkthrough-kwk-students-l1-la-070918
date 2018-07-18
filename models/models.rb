@@ -21,5 +21,3 @@ def get_animal(animal,hat)
 end 
 
 puts get_animal("dog","party hat")
-    
-  
