@@ -1,2 +1,2 @@
-def get_animal
+def get_animal(animal,hat)
   
